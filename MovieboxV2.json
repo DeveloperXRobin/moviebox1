@@ -1,8 +1,8 @@
-
 {
-  "latestVersionCode": 4004,
-  "latestVersionName": "4.0.04",
-  "forceUpdate": true,
-  "updateUrl": "https://t.me/Developer_X_Robin",
-  "updateText": "A new version is available. Update now."
+  "show_dialog": true,
+  "update_url": "https://t.me/Developer_X_Robin",
+  "top_title": "Please Update Your App",
+  "main_title": "App Update!",
+  "sub_title": "Exciting new premium features",
+  "changelog": "1. Bug Fixes And Performance Improvements\n2. New User Interface\n3. Better Than Before\n4. Online Change Everything"
 }
